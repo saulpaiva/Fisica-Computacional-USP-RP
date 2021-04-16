@@ -1,0 +1,13 @@
+            15/04/21
+
+Em paralelo ao longo do curso: Python e Teoria
+
+Projetos: 
+
+Parte 1 - Decidir e apresentar o projeto
+    - Upload do documento (PDF)
+
+Parte 2 - Executar o projeto (resultados)
+    - Acrescentar a parte dos resultados no documento anterior
+
+Introdução ao Jupyter Notebook

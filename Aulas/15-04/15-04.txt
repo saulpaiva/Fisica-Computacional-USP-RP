@@ -6,8 +6,11 @@ Projetos:
 
 Parte 1 - Decidir e apresentar o projeto
     - Upload do documento (PDF)
+    - Passará por correções do professor
 
 Parte 2 - Executar o projeto (resultados)
     - Acrescentar a parte dos resultados no documento anterior
 
 Introdução ao Jupyter Notebook
+    - Comandos introdutórios em Python
+    - Introdução à bibliotecas e dicionários

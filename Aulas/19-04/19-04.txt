@@ -1,0 +1,10 @@
+            19/04/21
+
+Estrutura do Projeto (T1):
+
+- Usar conjunto artigos prontos
+- Python
+- Algo original
+- Formato final de monografia ou artigo
+- Sistemas dinâmicos (aplicado à qualquer tema)
+- 

@@ -1,10 +1,93 @@
             19/04/21
 
-Estrutura do Projeto (T1):
+# Estrutura do Projeto (T1):
 
-- Usar conjunto artigos prontos
+- Usar conjunto artigos prontos (Google Schoolar)
 - Python
 - Algo original
 - Formato final de monografia ou artigo
 - Sistemas dinâmicos (aplicado à qualquer tema)
-- 
+
+
+# Tipos de Sistemas:
+
+- Simples
+- Complicados
+
+- Complexos (auto-adaptação)
+- Caóticos (evolução temporal desconhecida)
+
+# O que é um sitema dinâmico?
+
+- 'Algo' que evoluirá com o tempo
+- Regra específica que esse 'algo' evolui no tempo
+- 'Algo' deve ser codificado em variáveis
+- Regra = funções envolvendo essas variáveis
+
+- Sistema Dinâmico é, então, um modelo que descreve a evolução temporal de um sistema
+
+# Variáveis vs. Funções
+
+# Modelagem de Sistemas Dinâmicos (S.D.)
+
+- Modelos ssão representações simplificadas da realidade que servem para diferentes objetivos:
+
+    - Fazer previsão
+    - Descrever padrões
+    - Testar hipóteses
+    - Sugerir o quê medir, ou quais perguntas fazer (pesquisa exploratória)
+    - Analisar dados (Big Data)
+    - Revelar mecanismos ou interações
+    - Fazer teoria
+
+# SD Contínuos
+
+- Campos de velocidades
+- Valores reais
+- Normalmente usam EQ Dif's.
+
+# SD Discretos
+
+- Relação de recorrência
+- Mapas
+- Autômatos Celulares
+- Redes Complexas
+- Modelos Baseados em Agentes
+
+# Conceitos
+
+- Espaço de estado
+    Todos os possíveis estados do sistema
+    
+- Trajetória ou caminho
+    Conjunto de posições no espaço de estado através do qual o sistema eventualmente atravessa. O comportamento do sistema é muitas vezes descrito por trajetórias através do espaço de estado
+    
+- Atrator
+    Ponto do espaço estado a qual o sistema tenderá quando se encontrar na regiao circundante. Esta região circundante é a bacia de atração
+
+
+# Teoria de sistemas dinâmicos
+
+- Precisamos de uma teoria ou formalismo que ajuda na tarefa de como estudar um SD
+
+# Sistemas Lineares
+
+- Definição:
+    y(t) = S(@.u) = @.S(u)
+    y(y) = S(u1 + u2) = S(u1) + S(u2)
+
+# Modelos
+
+- Busca capturar pelo menos uma essência do Universo
+- O melhor modelo para o Universo é o próprio Universo
+
+- Crescimento exponencial
+
+- Modelo logístico
+
+- Presa-Predator
+    dV/dt = bV - cVP
+    dP/dt = cVP - dP
+
+- Modelo SIR (ex: Covid-19)
+    susceptível > infectado > recuperado

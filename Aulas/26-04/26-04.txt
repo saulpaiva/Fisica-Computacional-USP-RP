@@ -1,0 +1,35 @@
+	Modelo SIR
+
+Susceptíveis (a)-> Infectados (b)-> Recuperados
+
+Se conserva no tamanho
+dS + dI + dR = 0
+S(t) + I(t) + R(t) = N
+
+Epidemia: dI/dt[t=0] > 0
+R0 == aS0/b > 1
+
+    Modelo de Resistência Bacteriana em Hospitais
+
+Workers and Patients
+[exemplos]
+
+    Sistemas Caóticos
+    
+Caos: É um sistema determinístico que exibe dependência e sensibilidade às condições iniciais, e sua trajetória a longo prazo se dá de forma aperiótica
+"No caso de sistemas dissipativos o atrator é estranho"
+
+    Dinâmica Populacional Discreta
+    
+Xantes = r.Xdepois
+
+X(t+1) = r.X(t).(1-X(t))
+Feedback positivo e negativo
+
+Cenário de Feigenbaum
+
+CAOS =  Sensibilidade às condições iniciais = imprevisibilidade
+
+Condições iniciais muito próximas separam-se exponencialmente rápido (efeito borboleta)
+
+Expoente de Lyapunov: Mede a sensibilidade das condições iniciais
